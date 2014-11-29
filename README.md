@@ -17,3 +17,6 @@ Download MBSP library from http://www.clips.ua.ac.be/media/MBSP_1.4.zip and unzi
 
 start it up with:
 python chompywurds.py
+
+Tag guide here ---
+http://www.clips.ua.ac.be/pages/mbsp-tags
