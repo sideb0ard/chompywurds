@@ -1,5 +1,7 @@
 Flask API to provide MBSP breakdowns of sentence.
 
+http://www.clips.ua.ac.be/pages/MBSP
+
 Checkout this repo.
 
 sudo pip install virtualenv
